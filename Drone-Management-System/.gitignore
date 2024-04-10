@@ -1,0 +1,7 @@
+node_modules
+build
+combined.log
+error.log
+.env
+/.secrets
+/secrets
